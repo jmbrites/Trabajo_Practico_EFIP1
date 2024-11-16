@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+    <!-- Incluye las clases de tu proyecto -->
+    <classpathentry kind="src" path="src"/>
+
+    <!-- Incluye el directorio donde se compilan las clases -->
+    <classpathentry kind="output" path="bin"/>
+
+    <!-- Añade la biblioteca MySQL Connector -->
+    <classpathentry kind="lib" path="lib/mysql-connector-j-9.1.0.jar"/>
+</classpath>
