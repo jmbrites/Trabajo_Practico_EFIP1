@@ -3,7 +3,7 @@ public class Resultado {
     private String descripcion;
     private int idLlamada;
 
-    public Resultado(int id, String descripcion, int idLlamada) {
+    public Resultado(int ID_Llamada, String descripcion, int idLlamada) {
         this.id = id;
         this.descripcion = descripcion;
         this.idLlamada = idLlamada;
